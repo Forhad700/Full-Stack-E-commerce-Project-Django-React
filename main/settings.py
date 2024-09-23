@@ -25,7 +25,7 @@ SECRET_KEY = 'f3(^&n#pyb#&j!u753gz*lfh10j*7@fertv5em-m38bf5^c063'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['e-commerce-website-3d34.onrender.com']
 
 
 # Application definition
